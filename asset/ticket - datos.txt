@@ -1,0 +1,10 @@
+
+1. operacion
+2. corte
+3. piezas
+4. tiempo
+5. importe
+6. estilo y color
+7. número de bulto
+8. talla
+9. secuencia de la operación
