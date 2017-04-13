@@ -1,3 +1,9 @@
+## 2017-04-12  V4
+* OE - operaciones por estilo
+	* icono "+" inserta operaciones
+	* icono "-" elimina operacion
+	* fix: al cambiar una operacion, ya no le cambia la secuencia
+
 ## 2017-04-05  V3
 * OE
   * tabla ( estiloID y operacionID - DataType LOOKUP WIZARD )
