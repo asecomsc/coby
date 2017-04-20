@@ -1,3 +1,12 @@
+## 2017-04-19  V5
+* campos tiempo/precio se movieron de la tabla "oe" a la table "operaciones"
+* los campos tiempo y precio ahora son "currency" para no tener problemas de redondeo en los calculos posteriores
+* se formatearon tiempo/precio en sub form: operaciones/oe.
+* form "oe" tiempo/precio se bloquearon (enabled: no)
+* form "oe" data: agregar tabla "operaciones" y relacionar.
+* form "oe" data:  left join, para que al insertar aparezca el nuevo registro
+* form "oe" sort por sec.
+
 ## 2017-04-12  V4
 * OE - operaciones por estilo
 	* icono "+" inserta operaciones
