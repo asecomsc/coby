@@ -1,3 +1,6 @@
+## 2017-04-26  V6
+* frm cortes, sirvió solo para discutir en la planta y darme una idea mejor
+
 ## 2017-04-19  V5
 * campos tiempo/precio se movieron de la tabla "oe" a la table "operaciones"
 * los campos tiempo y precio ahora son "currency" para no tener problemas de redondeo en los calculos posteriores

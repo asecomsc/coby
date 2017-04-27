@@ -1,10 +1,20 @@
+OE
+1. operacion-nombre
+2. secuencia de la operación
 
-1. operacion
-2. corte
-3. piezas
+CORTE
+. corte ???
+3. estilo-nombre
+4. color
+5. talla-nombre
+6. piezas
+
+
+TICKET
+7. ticketID
+8. # bulto
 4. tiempo
 5. importe
-6. estilo y color
-7. número de bulto
-8. talla
-9. secuencia de la operación
+
+
+
