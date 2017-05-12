@@ -1,3 +1,12 @@
+## 2017-05-11  v8
+* new feature: copy estilos
+* informe oe
+
+## 2017-05-03  v7
+* frm OE
+	* para copiar add:  frame, btn, cBox
+	* code not in list cbEstilo, add newRec/controls enable/move next field
+
 ## 2017-04-26  V6
 * frm cortes, sirvió solo para discutir en la planta y darme una idea mejor
 
