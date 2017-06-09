@@ -1,3 +1,6 @@
+## 2017-06-07  v9a
+* form/sub cortes
+
 ## 2017-05-11  v8
 * new feature: copy estilos
 * informe oe
