@@ -1,3 +1,8 @@
+## 2017-06-21  v10
+* qry genTicket
+  * corteNom, nomEstilo, piezas, sec, nomOperacion, tiempo, precio, nomTalla
+  * module1 - function rowNum ( usa var row public )
+  
 ## 2017-06-07  v9a
 * form/sub cortes
 
