@@ -1,7 +1,11 @@
-## 2017-06-21  v10
-* qry genTicket
-  * corteNom, nomEstilo, piezas, sec, nomOperacion, tiempo, precio, nomTalla
-  * module1 - function rowNum ( usa var row public )
+## 2017-06-21  v10, v10a
+* Generar Tickets
+  * qry genTicket: corteNom, nomEstilo, piezas, sec, nomOperacion, tiempo, precio, nomTalla
+  * module1
+    * function rowNum ( usa var row public )
+  * <COPY> table param: ticketID, bultoID
+  * funciones: 
+    * getParam ["ticketID", "bultoID"], updateParam y rowNumber
   
 ## 2017-06-07  v9a
 * form/sub cortes
