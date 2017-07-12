@@ -1,3 +1,26 @@
+------------  FASE B:
+
+1ST ROW
+1. nomOperacion
+2. nomCorte
+3. nomEstilo
+
+2ND ROW
+4. tiempo
+5. piezas
+6. precio
+7. bultoID
+8. sec
+
+3RD ROW
+9. talla
+10. color
+
+4TH ROW
+11. ticketID
+
+
+-------------  FASE A:
 OE
 1. operacion-nombre
 2. secuencia de la operación

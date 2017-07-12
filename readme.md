@@ -1,3 +1,17 @@
+## 2017-07-12  v10c
+* qry select genTickets  
+* BE db - change structure
+
+## 2017-07-05  v10b
+* genBultos  
+  * GOO access query row numbering, http://www.lebans.com/rownumber.htm 
+  * qry select
+    * rownumber marca err desde docmd.openqry
+  * qry update
+    * row number si funciona con currentdb.Execute
+* code: openqry genBultos
+  * err: incrementar row, no funciona
+
 ## 2017-06-21  v10, v10a
 * Generar Tickets
   * qry genTicket: corteNom, nomEstilo, piezas, sec, nomOperacion, tiempo, precio, nomTalla
