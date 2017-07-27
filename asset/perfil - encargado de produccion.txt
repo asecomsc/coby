@@ -1,0 +1,14 @@
+actividades
+
+* impresion de tickets
+* entrega de tickets a cortador para que se los ponga a los bultos
+* recoger diario tickets de produccion al auxiliar de produccion
+* escanear tickets
+* mantenimiento de sistema de produccion
+  * cronometrar tiempos estandar
+  * modelos
+  * estilos
+  * operaciones por estilos
+    * cambio de secuencias o agregar nuevas operaciones
+  * cortes
+  * reimpresion de tickets extraviados

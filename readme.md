@@ -1,3 +1,19 @@
+## 2017-07-26  V11
+* se canceló restructura de tb-tickets 
+* la bd está en access 16
+
+## 2017-07-19  v10d, v10e
+* restructura tb tickets ( 1 x 6 ) [cortes_detID] x [corteID/estiloID/color/tallaID/piezas/bultoID]
+* copy code autonumber
+* copy qry GEN_TICKETS y GEN_BULTOS
+* modif qry GEN_TICKETS por restructura tb-tickets
+* planta, relink tables via nework
+* gen layout2, ticket2.txt y test print via network
+  * copy ticket2.txt \\prod1-pc\zebra
+  * ( no se necesita instalar driver en pc local )
+* copy tb-parametros
+* modif qry PRINT_TICKETS por restructura tb-tickets
+
 ## 2017-07-12  v10c
 * qry select genTickets  
 * BE db - change structure

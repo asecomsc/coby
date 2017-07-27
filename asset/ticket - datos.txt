@@ -1,3 +1,30 @@
+------------  FASE C:  ( database fields in top-bottom order design )
+"Datos que seran grabados a tabla-tickets"
+
+ticketsGenerados
+ticketID
+
+ 
+(1)  corteID    (2) |   CORTES
+     estiloID   (3) |
+
+
+     color              ESTILOS  
+
+
+(2)  tallaID         |  CORTES_DET
+     piezas          |
+     bultoID         |
+
+
+(3)  operacionID (4) |  OE
+     sec             |
+
+
+(4)  tiempo          |  OPERACIONES
+     precio          |
+
+
 ------------  FASE B:
 
 1ST ROW
