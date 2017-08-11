@@ -1,3 +1,9 @@
+## 2017-08-09  v11b
+* v11a, oe fix renumeracion de secuencia ( antes partir del 11, ponia 10,10,10...)
+* print tickets manual 1,2 y todo el corte de prueba A101 ( 15 tickets )
+* form Cortes, new boton Imprimir Tickets
+* actualizar tb-parametros en sub generaTickets, para que siga progresiva la numeracion de bultos y tickets* 
+
 ## 2017-07-26  V11
 * se canceló restructura de tb-tickets 
 * la bd está en access 16
