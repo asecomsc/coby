@@ -1,3 +1,6 @@
+## 2017-08-16  v12
+* fix code imprime_Tickets + qry PRINT_TICKETS, ahora ambos usan parametros
+
 ## 2017-08-09  v11b
 * v11a, oe fix renumeracion de secuencia ( antes partir del 11, ponia 10,10,10...)
 * print tickets manual 1,2 y todo el corte de prueba A101 ( 15 tickets )
