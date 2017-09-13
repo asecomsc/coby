@@ -1,3 +1,8 @@
+## 2017-09-13  v13
+* FORM-TAB: Leer Tick 
+  * operarID filter by ( fecha, operarioID )
+  * barcode sqlUpdate ( fecha, operarioID, secLectura) en tabla-TICKETS
+
 ## 2017-08-16  v12
 * fix code imprime_Tickets + qry PRINT_TICKETS, ahora ambos usan parametros
 
