@@ -1,3 +1,9 @@
+## 2017-09-13  v14
+* chage: ui final
+  * dos columnas: secLectura y ticketID
+  * hide tbMaxSec
+  * no edit ( lock-yes ) fields: secLectura y ticketID
+  
 ## 2017-09-13  v13
 * FORM-TAB: Leer Tick 
   * operarID filter by ( fecha, operarioID )
