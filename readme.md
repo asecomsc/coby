@@ -1,3 +1,6 @@
+## 2017-09-27  v15
+* integrar OE en tab
+
 ## 2017-09-13  v14
 * chage: ui final
   * dos columnas: secLectura y ticketID
