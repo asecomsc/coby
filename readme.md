@@ -1,3 +1,9 @@
+﻿## 2017-10-05  v16
+* barcode read
+  * fix: first update = err
+  * fix: err si ticket no existe
+  * fix: ordene asc 
+
 ## 2017-09-27  v15
 * integrar OE en tab
 
