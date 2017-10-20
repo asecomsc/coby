@@ -1,4 +1,7 @@
-﻿## 2017-10-05  v16
+﻿## 2017-10-18  v17
+* barcode read, list box warnings para no interrumpir el ritmo
+
+## 2017-10-05  v16
 * barcode read
   * fix: first update = err
   * fix: err si ticket no existe
