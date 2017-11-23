@@ -1,4 +1,10 @@
-﻿## 2017-10-18  v17
+﻿## 2017-11-22  v18
+* form barcode
+  * barcode print, quitar los saltos ( carlos decia que el prob era tear-off
+basicamente tuve que ir eliminando lineas del codigo generado por el softw de diseño
+de zebra )
+
+## 2017-10-18  v17
 * barcode read, list box warnings para no interrumpir el ritmo
 
 ## 2017-10-05  v16

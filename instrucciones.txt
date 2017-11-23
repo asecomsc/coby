@@ -1,0 +1,12 @@
+1. reimpresion de tickets
+
+ej, de la orden AOMC276 se generaron tickets al 501 al 750 pero
+salieron chuecos.
+
+NO SE DEBE VOLVER A USAR BOTON "Imprimir Tickets" porque
+generaría nuevos tickets del 751 al 1000, la solucion es:
+
+1. \\PROD1-PC\tickets
+2. shift + clickDer 
+3. abrir ventana de comandos aqui
+4. copy tickets.txt \\prod1-pc\zebra
