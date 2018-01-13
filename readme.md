@@ -1,4 +1,8 @@
-﻿## 2017-11-22  v18
+﻿## 2018-10-01  v19
+* report destajo_detalle
+  * qry: destajo_detalle
+
+## 2017-11-22  v18
 * form barcode
   * barcode print, quitar los saltos ( carlos decia que el prob era tear-off
 basicamente tuve que ir eliminando lineas del codigo generado por el softw de diseño
